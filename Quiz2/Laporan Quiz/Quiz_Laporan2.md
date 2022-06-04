@@ -10,5 +10,10 @@
 
 
 <br>
+  
+## *Berikut adalah hasil run nya *
+Saya memohon maaf karena saya masih kurang dan kodingan saya masih belum sempurna
+
+berikut adalah hasil outputnya yang masih belum selesai :
 
 <img src = "1.png"><p>
